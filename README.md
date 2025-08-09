@@ -26,9 +26,10 @@ A visually appealing, smooth-scrolling website built with **HTML**, **CSS**, **J
 ## 📸 Preview
 
 
-<img width="920" height="877" alt="sharath-shetty28 github io_lazarev_ (1)" src="https://github.com/user-attachments/assets/f0fced4c-1831-473c-8790-1045a61eb0e2" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/256f3062-56e4-48a4-a1ff-a065c3ad79aa" />
+<img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/5ccd0a67-71bd-4467-8b3d-923496598b05" />
 
-*(Replace with your actual screenshot)*
+
 
 ---
 
