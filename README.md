@@ -32,10 +32,10 @@ A visually appealing, smooth-scrolling website built with **HTML**, **CSS**, **J
 
 
 📌 Future Improvements
-Add scroll-triggered animations for sections.
-Implement dark/light mode toggle.
-Enhance accessibility for all users.
+- Add scroll-triggered animations for sections.
+- Implement dark/light mode toggle.
+- Enhance accessibility for all users.
 
 🙌 Acknowledgements
-GSAP – For the smooth and powerful animations.
-Inspiration from modern UI design trends.
+- GSAP – For the smooth and powerful animations.
+- Inspiration from modern UI design trends.
