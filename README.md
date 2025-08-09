@@ -30,18 +30,10 @@ A visually appealing, smooth-scrolling website built with **HTML**, **CSS**, **J
 
 ---
 
-## 📂 Project Structure
-
--index.html # Main HTML file
--style.css # Stylesheet
--script.js # JavaScript logic & GSAP animations
--README.md # Project documentation
 
 📌 Future Improvements
 Add scroll-triggered animations for sections.
-
 Implement dark/light mode toggle.
-
 Enhance accessibility for all users.
 
 🙌 Acknowledgements
