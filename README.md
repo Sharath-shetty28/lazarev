@@ -25,7 +25,9 @@ A visually appealing, smooth-scrolling website built with **HTML**, **CSS**, **J
 
 ## 📸 Preview
 
-![Smooth Scroll UI Screenshot](screenshot.png)  
+
+<img width="920" height="877" alt="sharath-shetty28 github io_lazarev_ (1)" src="https://github.com/user-attachments/assets/f0fced4c-1831-473c-8790-1045a61eb0e2" />
+
 *(Replace with your actual screenshot)*
 
 ---
